@@ -24,3 +24,7 @@ Description: This Unity tool is to help artist turn objects they have in the sce
 - Select all the elements that you want to turn into a prefab
 - Click the button "Make prefabs"
 - You can see your new prefabs in the Prefabs folder
+![Screenshot](MakePrefabsTool.png)
+![Screenshot][def]
+
+[def]: MakePrefabsTool2.png
