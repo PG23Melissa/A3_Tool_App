@@ -3,19 +3,24 @@ Submitted by: <PG23Melissa> Melissa Osorio
 Date: <April 11 2023>
 Version: V1.0
 ----------
-<Description: This Unity tool is to help artist turn objects they have in the scene into prefabs>
+Description: This Unity tool is to help artist turn objects they have in the scene into prefabs
 
 ####**Download/Install**
 ---------
- - Browse to demo link
- - [Download Zip](link to zip)
- - <path to code in source control \\VFS_Depot\Programming\PGxx\pgXXusername\apps\myapp>
-    OR
-    URL or Full path in perforce or BitBucket
-    OR
-    Description of how to decompress uploaded zip.
+ - Browse to GitHub
+ - (link to Repository)
+ - https://github.com/PG23Melissa/A3_Tool_App
+ - Make sure you are on the Main branch
+ - Go to code and Download the Zip file
+ - Open a sample scene in Unity
+ - Make a Script folder and drag an drop "MakePrefabs.cs" into it
+
 
 
 ####**How to use**
 --------
-< Instructions on how to use the app - edit and replace this line >
+- On Unity Menu go to Tools
+- Click on "Make Scene Object Prefabs"
+- Select all the elements that you want to turn into a prefab
+- Click the button "Make prefabs"
+- You can see your new prefabs in the Prefabs folder
